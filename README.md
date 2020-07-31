@@ -1,1 +1,1 @@
-# slg-test
+# Strange Loop Games Test
